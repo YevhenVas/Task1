@@ -6,8 +6,6 @@ package Grow;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+    int[] prime = new int[5000];
     }
 }
