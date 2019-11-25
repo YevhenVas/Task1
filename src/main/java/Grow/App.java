@@ -6,6 +6,9 @@ package Grow;
  */
 public class App 
 {
-    int[] prime = new int[5000];
+    double ThePrime = new Prime_Digit();
+
+    System.out.println();
     }
+
 }
